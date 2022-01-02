@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.naw{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+.naw1{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: sans-serif;
+    color: brown;
+}
+
+.best{
+    color: red;
+}
+.travel{
+    margin-top: 17px;
+    font-size: 50px;
+    font-family:Gill Sans;
+    font-weight: 800;
+}
+.play{
+    color: rgb(78, 78, 78);
+}
+
+.tex{
+    margin-top: -17px;
+}
+.aaaa{
+    margin-top: 25px;
+}
+.zzz{
+    font-weight: 800;
+    color: rgb(30, 30, 31);
+    font-family:Gill Sans;
+}
+.textt{
+    color: black;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.boxx{
+    font-size:35px;
+    background-color: orange;
+    color: black;
+    padding: 10px;
+    border-radius: 17px;
+}
+.boxx1{
+    font-size:30px;
+    background-color: rgb(236, 101, 38);
+    color: black;
+    padding: 13px 10px;
+    border-radius: 17px;
+}
+.boxx2{
+    font-size:30px;
+    background-color: rgb(46, 97, 131);
+    color: black;
+    padding: 11px 10px;
+    border-radius: 15px;
+}
+.book{
+    font-weight: 800;
+    color: black;
+    font-family:Gill Sans ;
+}
+.i{
+    color: black;
+    background-color: cornsilk;
+}
+.car{
+    border-radius: 15px;
+    box-shadow: 16px -13px 62px 5px rgb(165, 210, 240);
+}
+.cards{
+    width: 70%;
+    padding: 15px 10px;
+    font-family:Gill Sans ;
+    border-radius: 10px;
+    box-shadow: 23px 03px 85px 11px rgba(34, 60, 80, 0.2);
+}
+.oooo{
+    border-top-left-radius: 40px;
+    background-color: rgb(240, 236, 236);
+   
+}
+.icoo{
+    font-size: 25px;
+}
